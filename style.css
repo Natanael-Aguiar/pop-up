@@ -1,0 +1,17 @@
+#modal {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 50;
+    margin: -200px 0 0 -200px;
+    background: url('http://lorempixel.com/600/600') no-repeat center center;
+    box-shadow: 0 0 20px rgba(0,0,0,.5);
+    border-radius: 5px;
+    background-color: white;
+  }
+  
+  .modal-content {
+    padding: 40px;
+  }
